@@ -8,20 +8,20 @@
     "serve:build": "serve -n ./dist -l 6002"
   },
   "dependencies": {
-    "serve": "^10.0.2",
-    "vue": "^2.5.17"
+    "serve": "^11.0.0",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-export-default-from": "^7.0.0",
-    "@vue/cli-plugin-babel": "^3.0.5",
-    "@vue/cli-plugin-eslint": "^3.0.5",
-    "@vue/cli-service": "^3.0.5",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@vue/cli-plugin-babel": "^3.5.5",
+    "@vue/cli-plugin-eslint": "^3.5.1",
+    "@vue/cli-service": "^3.5.3",
     "@vue/web-component-wrapper": "^1.2.0",
     "babel-eslint": "^10.0.1",
     "babel-plugin-transform-function-bind": "^6.22.0",
-    "eslint": "^5.8.0",
-    "eslint-plugin-vue": "^5.0.0-0",
-    "vue-template-compiler": "^2.5.17"
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
     "root": true,
