@@ -1,6 +1,6 @@
 <template>
     <div>
-        <span>This is the webcomponent</span>
+        <span>This is the main component</span>
         <sub-component />
     </div>
 </template>
@@ -10,7 +10,7 @@ import SubComponent from "./components/sub-component.vue"
 
 export default {
 
-    name: "ie-webcomponent",
+    name: "ie-component",
     data( ){
         return { }
     },
