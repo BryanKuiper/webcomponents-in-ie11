@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "serve": "^11.0.0",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-fixed-header": "github:derevandal/vue-fixed-header#fix/@changeOnHideScrollDown"
   },
   "devDependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.2.0",
